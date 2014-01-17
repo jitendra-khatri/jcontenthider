@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="content" method="upgrade">
+
+    <name>Joomla Article Content Hider</name>
+    <version>0.1</version>
+    <creationDate>Jan 2014</creationDate>
+    <author>Jitendra Khatri</author>
+    <authorEmail>jkhatri6@gmail.com</authorEmail>
+    <copyright>www.jitendrakhatri.com</copyright>
+    <license>GNU General Public License v2</license>
+    <description>Joomla Article ContentHider : Through this plugin you can control the display of content accordign to users' group.</description>
+    <files>
+            <filename plugin="jcontenthider">jcontenthider.php</filename>
+    </files>
+</extension>
+
